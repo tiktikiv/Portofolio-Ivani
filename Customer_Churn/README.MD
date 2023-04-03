@@ -7,4 +7,7 @@ objective dari case study kali ini adalah
 1. menemukan model Machine Learning terbaik untuk memprediksi peralihan pelanggan.
 2. mendapatkan prediksi customer churn dari data terbaru.
 
+## Google Colab Notebook
+Feel the experiment use this [notebook here](https://colab.research.google.com/drive/17Ee9m1MQAr56sj9ixZaoxEx_i50NuE2B?usp=sharing)
+
 -Case study ini diperoleh dari Challenge Chapter 2 di FGA x Binar Academy-
